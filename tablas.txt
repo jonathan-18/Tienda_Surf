@@ -1,2 +1,5 @@
 Las tablas disponibles son:
+1.​Longboard
+2.Evolutiva
+3.Fish y Retro Fish
 
